@@ -1,3 +1,7 @@
+
+https://github.com/user-attachments/assets/569b2415-ea09-4fd0-944c-6381efefaef1
+
+
 # Dapper - Pack Opening Prototype
 
 Interactive 3D pack opening experience built with Next.js and React Three Fiber.
